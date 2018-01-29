@@ -19,6 +19,7 @@ A [live playground](https://clearbridgesoft.github.io/clearbridge-form-builder/)
 2. View and Edit Properties:
    * Click any field you would like to edit. 
    * The properties will be appeared on the right screen. 
+   * To hide properties click on the field in the left tree view.
    * The properties will have:
      * Name: a field name, this field can't contain any space
      * title: This field is used to modify the title of this field on the form-builder. 
